@@ -1,0 +1,18 @@
+1 . print('Hello world')	
+
+2 . name = input("Enter Employee Name : ")
+    joined = input("Enter Joined Date : ")
+    company = input("Enter Company Name : ")
+
+3 . class Employee:
+   def __init__(self):
+       print('Employee created. ')
+   def __del__(self):
+       print('Destructor called, Employee deleted. ')
+obj = Employee()
+del obj
+
+
+
+
+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 ---> ( Github Token )
